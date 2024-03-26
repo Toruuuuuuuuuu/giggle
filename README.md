@@ -1,6 +1,4 @@
-<img src="https://raw.githubusercontent.com/Toruuuuuuuuuu/Toruuuuuuuuuu/output/snake.svg"  />
 
-###
 
 <p align="left">Hello World!!</p>
 
