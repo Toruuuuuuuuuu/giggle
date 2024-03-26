@@ -1,4 +1,44 @@
+<h1 align="center" id="title">First repo</h1>
 
+<p id="description">here you can try to create your own repo</p>
+
+<h2>Project Screenshots:</h2>
+
+<img src="https://docs.github.com/assets/cb-137715/images/help/repository/os-repo-with-topics.png" alt="project-screenshot" width="400" height="400/">
+
+<h2>🛠️ Installation Steps:</h2>
+
+<p>1. use girhub and google to create your repo</p>
+
+<p>2. here some commands that will help you with that</p>
+
+```
+git init
+```
+
+```
+git add .
+```
+
+```
+git clone 
+```
+
+```
+git commit -m "first commit"
+```
+
+```
+git branch -M main
+```
+
+```
+git remote add origin
+```
+
+```
+git push -u origin main
+```
 
 <p align="left">Hello World!!</p>
 
